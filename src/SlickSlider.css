@@ -1,0 +1,16 @@
+.card-img{
+    height: 400px;
+    width: 400px;
+}
+
+    .slick-dots li button:before{
+        font-size: 120px;
+        content: '-';
+        border-radius: 20px;
+}
+.slick-prev:before, .slick-next:before{
+    color: black;
+}
+.slick-prev{
+    font-size: 900px;
+}
