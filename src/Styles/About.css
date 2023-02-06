@@ -1,0 +1,30 @@
+.about-main{
+    padding: 0px 40px 0px 40px;
+}
+.about-fan-text {
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        position: relative;
+    }
+    .about-fan-text-main{
+        background-color: black;
+    }
+.about-fan-text p{
+width: 200px;
+position: absolute;
+top:95px;
+margin-left: -100px;
+color: white;
+}
+.about-fan-img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.about-fan-img img{
+    z-index:-1;
+    height: 350px;
+    width: 350px;
+}

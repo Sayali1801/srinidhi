@@ -1,0 +1,24 @@
+.ourClient-main{
+    background-color: rgba(190, 42, 16, 1);
+    padding: 0px 40px 40px 40px;
+}
+.ourClient-up{
+    display: flex;
+    flex-direction:column;
+    align-items: flex-start;
+}
+.ourClient-up p{
+    width: 60%;
+}
+.ourClient-down {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: white;
+    padding: 30px;
+    margin-top: 10px;
+}
+.ourClient-down img{
+    height: 100px;
+    width: 100px;
+}

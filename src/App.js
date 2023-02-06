@@ -1,11 +1,11 @@
 import './App.css';
-import Navbar from './components/Navbar';
+import Landing from './components/Landing';
 // import SlickSlider from './SlickSlider';
 function App() {
   return (
     <div className="App">
-    <Navbar/>
-    {/* <SlickSlider/> */}
+    <Landing/>
+        {/* <SlickSlider/> */}
   </div>
   );
 }

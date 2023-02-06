@@ -1,31 +1,48 @@
 {
     "home_page":{
   "header": {
-    "header_logo": "",
+    "header_logo": "logo.png",
     "nav_items": ["Home", "About-Us", "Testimonials", "Contact"],
-    "nav_btn": "Get Qoute"
+    "nav_btn":["Get Qoute"]
   },
+  "home_back_img":"homeBack.jpg",
   "landing_page": {
     "background_img": ""
   },
   "about_us": {
     "about_us_title": "Lorem ipsum dolor sit , consectetur AMET",
-    "about_us_desc": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+    "about_img":"aboutImg.png",
+    "about_us_text":{
+        "about_us_desc":[
+      "Lorem ipsum dolor sit amet,ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "Lorem ipsum dolor sit amet,ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "Lorem ipsum dolor sit amet,ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
     ],
+      "about_us_fan":[
+        "FanBackground.png",
+        "FanBackground.png",
+        "FanBackground.png"
 
+    ]
+    }
+    },
     "our_clients": {
+        "our_clients_title":"Our Clients",
       "our_clients_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
       "our_clients_logo": [
-        "img src",
-        "img src",
-        "img src",
-        "img src",
-        "img src"
-      ]
+            "clientLogo.png",
+            "clientLogo.png",
+            "clientLogo.png",
+            "clientLogo.png",
+            "clientLogo.png"
+    ],
+    "our_clients_name":[
+        "Lorem ipsum dolor",
+        "Lorem ipsum dolor",
+        "Lorem ipsum dolor",
+        "Lorem ipsum dolor",
+        "Lorem ipsum dolor"
+    ]
     },
     "our_presence":{
         "our_presence_title":"Our Presence",
@@ -52,7 +69,7 @@
         "img src",
         "img src"
     ],
-    "products_title":[
+    "products_img_title":[
         "Nut Pan Roasting Machine",
         "Nut Pan Roasting Machine",
         "Nut Pan Roasting Machine",
@@ -165,4 +182,4 @@
 
 }
 }
-}
+
