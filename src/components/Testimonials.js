@@ -2,11 +2,11 @@ import Data from "../Data.json";
 function Testimonials(){
     return(
         <section>
-        <h1>{Data.home_page.testimonials.testimonials_title}</h1>
-        <p>{Data.home_page.testimonials.testimonials_desc}</p>
+        <h1>{Data.testimonials.testimonials_title}</h1>
+        <p>{Data.testimonials.testimonials_desc}</p>
         <div>
             <div className="testimonials-card-left">
-                {Data.home_page.testimonials.testimonials_carasoul.testimonials_carasoul_img.map((item)=>{
+                {Data.testimonials.testimonials_carasoulap((item)=>{
                     return(
                         <img src={item} alt=""/>
                     )

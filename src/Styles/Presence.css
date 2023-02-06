@@ -1,0 +1,17 @@
+.presence-main{
+    padding: 0px 40px 0px 40px;
+}
+.presence-up{
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.presence-up p{
+    width: 50%;
+    padding-bottom: 30px;
+}
+.presence-down img{
+width: 100%;
+height: 100vh;
+}
