@@ -55,25 +55,20 @@
             "our_presence_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
             "our_presence_img": "map.png"
         }
-    },
+    },  
     "products": {
         "products_title": "Our Most Sold Products",
         "products_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
         "products_img": [
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src",
-            "img src"
+            "product.png",
+            "product.png",
+            "product.png",
+            "product.png",
+            "product.png",
+            "product.png",
+            "product.png",
+            "product.png"
+
         ],
         "products_img_title": [
             "Nut Pan Roasting Machine",
@@ -82,30 +77,20 @@
             "Nut Pan Roasting Machine",
             "Nut Pan Roasting Machine",
             "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
             "Nut Pan Roasting Machine"
-        ]
+                ]
     },
     "testimonials": {
         "testimonials_title": "Testimonials",
         "testimonials_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "testimonials_carasoul": {
             "testimonials_carasoul_img": [
-                "img src",
-                "img src",
-                "img src",
-                "img src",
-                "img src",
-                "img src",
-                "img src",
-                "img src",
-                "img src"
+                "testoImg.png",
+                "testoImg.png",
+                "testoImg.png",
+                "testoImg.png",
+                "testoImg.png"
+
             ],
             "testimonials_carasoul_name": [
                 "img src",
@@ -181,5 +166,15 @@
             "+91 9511705164",
             "info@srinidhiindustries.com"
         ]
+    },
+   "footer":{
+    "footer_social_media":[
+        "youtube.png",
+        "insta.png",
+        "linkdine.png",
+        "twitter.png",
+        "facebook.png"
+    ]
+
     }
 }

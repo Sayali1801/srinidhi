@@ -16,6 +16,7 @@ position: absolute;
 top:95px;
 margin-left: -100px;
 color: white;
+text-align:center;
 }
 .about-fan-img{
     display: flex;

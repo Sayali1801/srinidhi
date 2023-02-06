@@ -10,6 +10,7 @@
 .presence-up p{
     width: 50%;
     padding-bottom: 30px;
+    text-align: right;
 }
 .presence-down img{
 width: 100%;

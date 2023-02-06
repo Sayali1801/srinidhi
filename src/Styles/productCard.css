@@ -1,0 +1,18 @@
+.productCard-main{
+    height: 350px;
+    width: 300px;
+    background: rgba(255, 255, 255, 1);
+    padding: 10px 10px 10px 10px;
+}
+.productCard-img{
+    display: grid;
+    grid-template-columns: 1fr 1fr  1fr;
+}
+.productCard-img img{
+    height: 330px;
+width: 302px;
+border-radius:10px;
+}
+.productCard-name p{
+    color: black;
+}

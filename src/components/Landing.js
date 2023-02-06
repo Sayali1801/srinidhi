@@ -4,6 +4,8 @@ import "../Styles/Landing.css";
 import About from "./About";
 import OurClients from "./OurClients";
 import Presence from "./Presence";
+import Product from './Product';
+import Footer from "./Footer";
 function Landing() {
   return (
     <div className="landing-main">
@@ -14,6 +16,8 @@ function Landing() {
         <OurClients/>
         {/* <Testimonials/> */}
         <Presence/>
+        <Product/>
+        <Footer/>
       </div>
       <div>
       </div>

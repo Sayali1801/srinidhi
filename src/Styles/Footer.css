@@ -1,0 +1,33 @@
+.footer-main{
+    background-color: black;
+    color: white;
+    padding:0px 40px 0px 40px;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.company-logo{
+    padding-top: 40px;
+}
+.footer-divs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.footer-divs h1{
+font-size: 20px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+}
+.footer-divs p{
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+}
+.line{
+    width: 100%;
+    margin-bottom: 10px;
+}
