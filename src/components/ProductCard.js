@@ -3,20 +3,17 @@ import Data from '../Data.json';
 function ProductCard(){
     return(
         <div className='productCard-main'>
-            <div className='productCard-img'>
-                {Data.products.products_img.map((item)=>{
-                    return(
-                        <img src={require('../Images/' + item)} alt="card img"/>
-                    )
-                })}
-            </div>
-            <div className='productCard-name'>
-                {Data.products.products_img_title.map((item)=>{
-                    return(
-                        <p>{item}</p>
-                    )
-                })}
-            </div>
+        {Data.products.product_card.map((item)=>{
+            return(
+                <>
+                <div className='productCard'>
+                    <img src={require('../Images/' + item.img)} alt="product"/>
+                    <p>{item.name}</p>
+
+                </div>
+                </>
+            )
+        })}
         </div>
     )
 }

@@ -59,26 +59,76 @@
     "products": {
         "products_title": "Our Most Sold Products",
         "products_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
-        "products_img": [
-            "product.png",
-            "product.png",
-            "product.png",
-            "product.png",
-            "product.png",
-            "product.png",
-            "product.png",
-            "product.png"
+        "product_card":[
+            {
+                "img":"product.png",
+                "name": "Nut Pan Roasting Machine"
+            },
+            {
+                "img":"product.png",
+                "name": "Nut Pan Roasting Machine"
+            },
+            {
+                "img":"product.png",
+                "name": "Nut Pan Roasting Machine"
+            },
+            {
+                "img":"product.png",
+                "name": "Nut Pan Roasting Machine"
+            },
+            {
+                "img":"product.png",
+                "name": "Nut Pan Roasting Machine"
+            },
+            {
+                "img":"product.png",
+                "name": "Nut Pan Roasting Machine"
+            },
+            {
+                "img":"product.png",
+                "name": "Nut Pan Roasting Machine"
+            }
 
+        ]
+    },
+    "product_details":{
+        "product_carasoul_images":[
+            "img",
+            "img",
+            "img"
         ],
-        "products_img_title": [
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine",
-            "Nut Pan Roasting Machine"
-                ]
+        "product_carasoul_price":[
+            "Approx Price Rs.6.9 Lakh/ Unit ",
+            "Approx Price Rs.6.9 Lakh/ Unit ",
+            "Approx Price Rs.6.9 Lakh/ Unit "
+        ],
+        "download_button":"Download Product Boucher",
+        "send_enquiry":"Send Us Your Enquiry",
+        "machine_title":[
+            "Nut Pan Rosting Machine",
+            "Nut Pan Rosting Machine",
+            "Nut Pan Rosting Machine"
+        ],
+        "machine_subtitle":[
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "machine_desc":[
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        ],
+        "machine_detail_table_left":[
+            "Name",
+            "Name",
+            "Name"
+        ],
+        "machine_detail_table_right":[
+            "srinidhi",
+            "srinidhi",
+            "srinidhi"
+        ]
     },
     "testimonials": {
         "testimonials_title": "Testimonials",
@@ -169,11 +219,11 @@
     },
    "footer":{
     "footer_social_media":[
-        "youtube.png",
-        "insta.png",
-        "linkdine.png",
-        "twitter.png",
-        "facebook.png"
+                "youtube.png",
+                "linkedin.png",
+                "IG.png",
+                "Twitter.png"
+
     ]
 
     }

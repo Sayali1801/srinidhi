@@ -17,7 +17,7 @@ function Landing() {
         {/* <Testimonials/> */}
         <Presence/>
         <Product/>
-        <Footer/>
+        {/* <Footer/> */}
       </div>
       <div>
       </div>

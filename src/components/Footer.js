@@ -24,11 +24,13 @@ function Footer(){
             </div>
             <div className='footer-divs'>
                 <h1>Social media links</h1>
-        {Data.footer.footer_social_media.map((item)=>{
-            return(
-                <img src={require('../Images/' + item)} alt="social media links"/>
-            )
-        })}
+                    {Data.footer.footer_social_media.map((item)=>{
+                        return(
+                            <div className='social-media-icons'>
+                        <img src={require('../Images/' + item)} alt=""/>
+                        </div>
+                        )
+                    })}
                 </div>
 
         </div>
