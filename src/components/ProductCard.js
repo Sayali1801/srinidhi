@@ -8,7 +8,7 @@ function ProductCard(){
                 <>
                 <div className='productCard'>
                     <img src={require('../Images/' + item.img)} alt="product"/>
-                    <p>{item.name}</p>
+                    <h2>{item.name}</h2>
 
                 </div>
                 </>

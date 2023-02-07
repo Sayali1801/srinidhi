@@ -1,6 +1,20 @@
 .product-main{
     background-color: rgba(190, 42, 16, 1);
-    width: 100%;
-    height:135vh;
+    /* width: 100%; */
+    height:70vw;
+    padding:  10px 40px 30px 40px;
+}
+.product-main h1{
+font-size: 32px;
+font-weight: 600;
+text-align: left;
+color: white;
+}
+.product-main p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    width: 60%;
+    color: white;
 
 }
