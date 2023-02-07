@@ -1,0 +1,14 @@
+.testimonials-main{
+    padding: 0px 40px 0px 40px;
+}
+.testimonials-main h1{
+font-size: 32px;
+font-weight: 600;
+text-align: right;
+}
+.testimonials-main p{
+font-size: 15px;
+font-weight: 400;
+text-align: right;
+}
+

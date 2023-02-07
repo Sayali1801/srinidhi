@@ -14,9 +14,10 @@ function Landing() {
         <Navbar />
         <About/>
         <OurClients/>
-        {/* <Testimonials/> */}
         <Presence/>
         <Product/>
+                <Testimonials/>
+
         {/* <Footer/> */}
       </div>
       <div>
