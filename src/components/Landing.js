@@ -7,6 +7,8 @@ import Presence from "./Presence";
 import Product from './Product';
 import Footer from "./Footer";
 import SlickSlider from "../SlickSlider";
+import AllProduct from "./AllProduct";
+import MachineDetail from "./MachineDetail";
 function Landing() {
   return (
     <div className="landing-main">
@@ -18,6 +20,8 @@ function Landing() {
         <Presence/>
         <Product/>
                 <Testimonials/>
+                <AllProduct/>
+                <MachineDetail/>
                 {/* <SlickSlider/> */}
 
         {/* <Footer/> */}

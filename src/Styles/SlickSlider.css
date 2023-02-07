@@ -1,8 +1,9 @@
-
     .slick-dots li button:before{
         font-size: 100px;
         content: '-';
         border-radius: 20px;
         color: rgba(190, 42, 16, 1);
-
+}
+.slick-dots{
+    padding-bottom: 30px;
 }

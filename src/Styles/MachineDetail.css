@@ -1,0 +1,11 @@
+.machineDetail-left{
+    padding: 20px 40px 0px 40px;
+
+}
+table{
+    border-collapse: collapse;
+
+}
+.product-detail-table th, td,tr{
+    border: 1px solid black;
+}

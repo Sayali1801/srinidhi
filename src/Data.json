@@ -91,45 +91,43 @@
 
         ]
     },
-    "product_details":{
-        "product_carasoul_images":[
-            "img",
-            "img",
-            "img"
-        ],
-        "product_carasoul_price":[
-            "Approx Price Rs.6.9 Lakh/ Unit ",
-            "Approx Price Rs.6.9 Lakh/ Unit ",
-            "Approx Price Rs.6.9 Lakh/ Unit "
-        ],
-        "download_button":"Download Product Boucher",
-        "send_enquiry":"Send Us Your Enquiry",
-        "machine_title":[
-            "Nut Pan Rosting Machine",
-            "Nut Pan Rosting Machine",
-            "Nut Pan Rosting Machine"
-        ],
-        "machine_subtitle":[
-            "Lorem Ipsum",
-            "Lorem Ipsum",
-            "Lorem Ipsum"
-        ],
-        "machine_desc":[
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        ],
-        "machine_detail_table_left":[
-            "Name",
-            "Name",
-            "Name"
-        ],
-        "machine_detail_table_right":[
-            "srinidhi",
-            "srinidhi",
-            "srinidhi"
-        ]
-    },
+    "product_basic_details":[
+        {
+            "product_img":"product.png",
+            "product_price":"Approx 6.9 Lakh per unit",
+            "product_boucher":"Download Product Boucher",
+            "product_enquiry":"Send Product Enquiry"
+        }
+    ],
+    "product_full_datails":[
+        {
+            "product_name":"Nat Rosting Machine",
+            "product_sub_title":"Lorem Ipsum",
+            "product_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }],
+
+            "product_table_details":[
+                {
+                    "product_table_title":[
+                        "Model",
+                        "Production Capacity",
+                        "Feeding Size",
+                        "Crushing Fitness",
+                        "Crushing Motor",
+                        "Dust Collecting Motor"
+                    ],
+                    "product_table_data":[
+                        "15BVVI",
+                        "10-15 Kg/Hr",
+                        "6mm",
+                        "20-12 mesh",
+                        "2.2KW",
+                        "0.55KW"
+                    ]
+                }
+            ],
+
+    
     "testimonials": {
         "testimonials_title": "Testimonials",
         "testimonials_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
