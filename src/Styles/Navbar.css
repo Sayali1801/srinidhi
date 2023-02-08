@@ -1,48 +1,61 @@
-.navbar-main{
+.navbar-main {
     display: flex;
     padding: 0px 40px 0px 40px;
 }
-.navbar-left{
+
+.navbar-left {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    flex:50%;
-}
-.navbar-left img{
-
-}
-.navbar-right{
     flex: 50%;
 }
-.navbar-right-list{
+
+.navbar-left img {
+
+}
+
+.navbar-right {
+    flex: 50%;
+}
+
+.navbar-right-list {
     display: flex;
     justify-content: center;
     align-items: center;
     justify-content: space-between;
 
 }
-.navbar-right-list li{
+
+.navbar-right-list li {
     list-style: none;
-font-size: 16px;
-font-weight: 500;
-text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
 }
-.navbar-right-list li:active{
-color:rgba(190, 42, 16, 1);
-text-decoration-line: overline;
-padding-bottom:4px;
-border-bottom-style: solid;
-width: fit-content;
-border-bottom-width: 1.5px;
+
+.navbar-right-list a {
+    text-decoration: none;
+    color: black;
 }
-.navbar-right-list button{
+
+.navbar-right-list a:active {
+    color: rgba(190, 42, 16, 1);
+    text-decoration-line: overline;
+    padding-bottom: 4px;
+    border-bottom-style: solid;
+    width: fit-content;
+    border-bottom-width: 1.5px;
+}
+
+.navbar-right-list button {
     border: 2px solid black;
-border-radius: 10px;
-padding: 10px 10px 10px 10px;
-background-color:darkcyan;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    background-color: darkcyan;
 }
-.backImg img{
-    width:100%;
+
+.backImg img {
+    width: 100%;
     height: 100vh;
     z-index: -1;
 }

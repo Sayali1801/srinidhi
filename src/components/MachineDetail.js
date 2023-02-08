@@ -25,19 +25,12 @@ function MachineDetail(){
             <h2>{item.product_sub_title}</h2>
             <p>{item.product_desc}</p>
         </div>
-        {Data.product_table_details.map((item)=>{
-            return(
-                <table className='product-detail-table'>
-                    <tr>
-                        <th>{item.product_table_title}</th>
-                    </tr>
-                    <tr>
-                        <td>{item.product_table_data}</td>
-                    </tr>
-                </table>
-            )
-        })
-        }
+        
+        <section className='machine-detail'>
+            <div className='machine-key'>
+            <h1>{item.machine_key_name}</h1>
+            </div>
+        </section>
         </div>
 
     )

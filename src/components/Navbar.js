@@ -1,20 +1,27 @@
+import AnchorLink from "react-anchor-link-smooth-scroll";
 import Data from "../Data.json";
 import "../Styles/Navbar.css";
+import Home from "./Home";
 function Navbar() {
   return (
     <>
       <div className="navbar-main">
         <div className="navbar-left">
-          <img
-            src={require("../Images/" + Data.home_page.header.header_logo)}
-            alt="logo"
-          />
+        <AnchorLink href="#home-page">
+        <Home/>
+          </AnchorLink>
         </div>
         <div className="navbar-right">
           <ul className="navbar-right-list">
-            <li>About Us</li>
-            <li>Our Clients</li>
-            <li>Testimonials</li>
+            <li>
+              <AnchorLink href="#about-us">About Us</AnchorLink>
+            </li>
+            <li>
+              <AnchorLink href="#our-client">Our Clients</AnchorLink>
+            </li>
+            <li>
+              <AnchorLink href="#testimonials">Testimonials</AnchorLink>
+            </li>
             <li>
               <button>Get Qoute</button>
             </li>

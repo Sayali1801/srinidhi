@@ -2,7 +2,7 @@ import Data from '../Data.json';
 import '../Styles/About.css';
 function About(){
     return(
-        <div className='about-main'>
+        <div className='about-main' id='about-us'>
         <h1>{Data.home_page.about_us.about_us_title}</h1>
         <div className='about-fan-text'>
           {Data.home_page.about_us.about_us_text.about_us_desc.map((item) => {

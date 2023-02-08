@@ -21,7 +21,7 @@ function Testimonials(){
         };
     
     return(
-        <section className="testimonials-main">
+        <section className="testimonials-main" id="testimonials">
         <h1>{Data.testimonials.testimonials_title}</h1>
         <p>{Data.testimonials.testimonials_desc}</p>
             <Slider {...settings}>

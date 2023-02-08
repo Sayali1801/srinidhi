@@ -104,30 +104,23 @@
             "product_name":"Nat Rosting Machine",
             "product_sub_title":"Lorem Ipsum",
             "product_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        }],
+        },
+        {
+            "machine_key_name":"Machine Name",
+            "machine_key_features":[
+                "Lorem ipsum dolor sit amet",
+                "Lorem ipsum dolor sit amet",
+                "Lorem ipsum dolor sit amet",
+                "Lorem ipsum dolor sit amet",
+                "Lorem ipsum dolor sit amet",
+                "Lorem ipsum dolor sit amet",
+                "Lorem ipsum dolor sit amet"
+            ]
 
-            "product_table_details":[
-                {
-                    "product_table_title":[
-                        "Model",
-                        "Production Capacity",
-                        "Feeding Size",
-                        "Crushing Fitness",
-                        "Crushing Motor",
-                        "Dust Collecting Motor"
-                    ],
-                    "product_table_data":[
-                        "15BVVI",
-                        "10-15 Kg/Hr",
-                        "6mm",
-                        "20-12 mesh",
-                        "2.2KW",
-                        "0.55KW"
-                    ]
-                }
-            ],
-
+        }
     
+    ],
+
     "testimonials": {
         "testimonials_title": "Testimonials",
         "testimonials_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",

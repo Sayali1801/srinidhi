@@ -2,10 +2,10 @@
     padding: 20px 40px 0px 40px;
 
 }
-table{
+table
+{
     border-collapse: collapse;
-
 }
-.product-detail-table th, td,tr{
+.product-detail-table tr,td, th{
     border: 1px solid black;
 }
