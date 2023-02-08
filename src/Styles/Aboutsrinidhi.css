@@ -1,0 +1,47 @@
+.aboutsrinidhi-main{
+    display: flex;
+    padding: 20px 120px 0px 40px;
+}
+.about-text h1{
+font-size: 40px;
+font-weight: 600;
+text-align: left;
+color: rgba(190, 42, 16, 1);
+
+}s
+.about-text p{
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+width: 80%;
+}
+.about-img img{
+    height: 250px;
+    width: 250px;
+    border:  1px solid black;
+box-shadow: 1px 0px 0px 20px gray;
+margin-bottom: 20px;
+}
+.mission-vission-main{ 
+    display: flex;
+    padding: 0px 40px 0px 40px;
+    justify-content: space-between;
+    text-align: left;
+}
+.vission, .mission{
+    background: rgba(236, 236, 236, 1);
+    margin: 20px;
+    border-radius: 10px;
+}
+.vission p, .mission p{
+    width: 90%;
+    padding: 0px 20px 0px 20px;
+}
+.vission h2, .mission h2{
+font-size: 40px;
+font-weight: 600;
+text-align: left;
+color: rgba(190, 42, 16, 1);
+margin: 10px 0px 0px 20px;
+
+}
