@@ -32,6 +32,17 @@
                 ]
             }
         },
+        "about_srinidhi":[
+            {
+                "about_srinidhi_title":"About Us",
+                "about_srinidhi_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "about_srinidhi_img":"aboutImg.png",
+                "about_srinidhi_vision_title":"Our Vision",
+                "about_srinidhi_vision_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "about_srinidhi_mission_title":"Our Mission",
+                "about_srinidhi_mission_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+        ],
         "our_clients": {
             "our_clients_title": "Our Clients",
             "our_clients_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
@@ -55,59 +66,58 @@
             "our_presence_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
             "our_presence_img": "map.png"
         }
-    },  
+    },
     "products": {
         "products_title": "Our Most Sold Products",
         "products_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
-        "product_card":[
+        "product_card": [
             {
-                "img":"product.png",
+                "img": "product.png",
                 "name": "Nut Pan Roasting Machine"
             },
             {
-                "img":"product.png",
+                "img": "product.png",
                 "name": "Nut Pan Roasting Machine"
             },
             {
-                "img":"product.png",
+                "img": "product.png",
                 "name": "Nut Pan Roasting Machine"
             },
             {
-                "img":"product.png",
+                "img": "product.png",
                 "name": "Nut Pan Roasting Machine"
             },
             {
-                "img":"product.png",
+                "img": "product.png",
                 "name": "Nut Pan Roasting Machine"
             },
             {
-                "img":"product.png",
+                "img": "product.png",
                 "name": "Nut Pan Roasting Machine"
             },
             {
-                "img":"product.png",
+                "img": "product.png",
                 "name": "Nut Pan Roasting Machine"
             }
-
         ]
     },
-    "product_basic_details":[
+    "product_basic_details": [
         {
-            "product_img":"product.png",
-            "product_price":"Approx 6.9 Lakh per unit",
-            "product_boucher":"Download Product Boucher",
-            "product_enquiry":"Send Product Enquiry"
+            "product_img": "product.png",
+            "product_price": "Approx 6.9 Lakh per unit",
+            "product_boucher": "Download Product Boucher",
+            "product_enquiry": "Send Product Enquiry"
         }
     ],
-    "product_full_datails":[
+    "product_full_datails": [
         {
-            "product_name":"Nat Rosting Machine",
-            "product_sub_title":"Lorem Ipsum",
-            "product_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "product_name": "Nat Rosting Machine",
+            "product_sub_title": "Lorem Ipsum",
+            "product_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         },
         {
-            "machine_key_name":"Machine Name",
-            "machine_key_features":[
+            "machine_key_name": "Machine Name",
+            "machine_key_features": [
                 "Lorem ipsum dolor sit amet",
                 "Lorem ipsum dolor sit amet",
                 "Lorem ipsum dolor sit amet",
@@ -116,54 +126,47 @@
                 "Lorem ipsum dolor sit amet",
                 "Lorem ipsum dolor sit amet"
             ]
-
         }
-    
     ],
-
     "testimonials": {
         "testimonials_title": "Testimonials",
         "testimonials_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "testimonials_carasoul":[
+        "testimonials_carasoul": [
             {
-               "testimonials_carasoul_img":"testoImg.png",
-                "testimonials_carasoul_name":"img src",
-                "testimonials_carasoul_desig":"Senior Brand Specialist",
-                "testimonials_carasoul_title":"Et enim aperiam molestiae nesciunt",
-                "testimonials_carasoul_desc":"Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
+                "testimonials_carasoul_img": "testoImg.png",
+                "testimonials_carasoul_name": "img src",
+                "testimonials_carasoul_desig": "Senior Brand Specialist",
+                "testimonials_carasoul_title": "Et enim aperiam molestiae nesciunt",
+                "testimonials_carasoul_desc": "Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
             },
             {
-                "testimonials_carasoul_img":"testoImg.png",
-                 "testimonials_carasoul_name":"img src",
-                 "testimonials_carasoul_desig":"Senior Brand Specialist",
-                 "testimonials_carasoul_title":"Et enim aperiam molestiae nesciunt",
-                 "testimonials_carasoul_desc":"Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
-             },
-             {
-                "testimonials_carasoul_img":"testoImg.png",
-                 "testimonials_carasoul_name":"img src",
-                 "testimonials_carasoul_desig":"Senior Brand Specialist",
-                 "testimonials_carasoul_title":"Et enim aperiam molestiae nesciunt",
-                 "testimonials_carasoul_desc":"Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
-             },
-             {
-                "testimonials_carasoul_img":"testoImg.png",
-                 "testimonials_carasoul_name":"img src",
-                 "testimonials_carasoul_desig":"Senior Brand Specialist",
-                 "testimonials_carasoul_title":"Et enim aperiam molestiae nesciunt",
-                 "testimonials_carasoul_desc":"Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
-             },
-             {
-                "testimonials_carasoul_img":"testoImg.png",
-                 "testimonials_carasoul_name":"img src",
-                 "testimonials_carasoul_desig":"Senior Brand Specialist",
-                 "testimonials_carasoul_title":"Et enim aperiam molestiae nesciunt",
-                 "testimonials_carasoul_desc":"Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
-             }
-
-
-
-           
+                "testimonials_carasoul_img": "testoImg.png",
+                "testimonials_carasoul_name": "img src",
+                "testimonials_carasoul_desig": "Senior Brand Specialist",
+                "testimonials_carasoul_title": "Et enim aperiam molestiae nesciunt",
+                "testimonials_carasoul_desc": "Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
+            },
+            {
+                "testimonials_carasoul_img": "testoImg.png",
+                "testimonials_carasoul_name": "img src",
+                "testimonials_carasoul_desig": "Senior Brand Specialist",
+                "testimonials_carasoul_title": "Et enim aperiam molestiae nesciunt",
+                "testimonials_carasoul_desc": "Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
+            },
+            {
+                "testimonials_carasoul_img": "testoImg.png",
+                "testimonials_carasoul_name": "img src",
+                "testimonials_carasoul_desig": "Senior Brand Specialist",
+                "testimonials_carasoul_title": "Et enim aperiam molestiae nesciunt",
+                "testimonials_carasoul_desc": "Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
+            },
+            {
+                "testimonials_carasoul_img": "testoImg.png",
+                "testimonials_carasoul_name": "img src",
+                "testimonials_carasoul_desig": "Senior Brand Specialist",
+                "testimonials_carasoul_title": "Et enim aperiam molestiae nesciunt",
+                "testimonials_carasoul_desc": "Nisi ea sed eos. Et eaque dolor consequatur iste corporis. Et minima esse vel harum enim corporis sint. Assumenda temporibus non architecto voluptatem officiis tempore maiores sapiente. Enim mollitia voluptas eius explicabo dolorem. Et vel velit accusamus et accusamus. Et pariatur et qui quidem est laboriosam saepe ratione et. Voluptate laudantium natus recusandae cupiditate rem velit et cumque ipsa. Thanks, guys!"
+            }
         ]
     },
     "contact": {
@@ -195,14 +198,12 @@
             "info@srinidhiindustries.com"
         ]
     },
-   "footer":{
-    "footer_social_media":[
-                "youtube.png",
-                "linkedin.png",
-                "IG.png",
-                "Twitter.png"
-
-    ]
-
+    "footer": {
+        "footer_social_media": [
+            "youtube.png",
+            "linkedin.png",
+            "IG.png",
+            "Twitter.png"
+        ]
     }
 }

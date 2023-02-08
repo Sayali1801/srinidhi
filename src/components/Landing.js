@@ -9,6 +9,8 @@ import Footer from "./Footer";
 import SlickSlider from "../SlickSlider";
 import AllProduct from "./AllProduct";
 import MachineDetail from "./MachineDetail";
+import EnquiryForm from "./EnquiryForm";
+import Aboutsrinidhi from "../Aboutsrinidhi";
 function Landing() {
   return (
     <div className="landing-main">
@@ -22,6 +24,8 @@ function Landing() {
                 <Testimonials/>
                 <AllProduct/>
                 <MachineDetail/>
+                <Aboutsrinidhi/>
+                {/* <EnquiryForm/> */}
                 {/* <SlickSlider/> */}
 
         {/* <Footer/> */}
