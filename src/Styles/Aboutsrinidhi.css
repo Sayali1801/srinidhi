@@ -1,6 +1,6 @@
 .aboutsrinidhi-main{
     display: flex;
-    padding: 20px 120px 0px 40px;
+    padding: 20px 40px 0px 40px;
 }
 .about-text h1{
 font-size: 40px;
@@ -8,12 +8,12 @@ font-weight: 600;
 text-align: left;
 color: rgba(190, 42, 16, 1);
 
-}s
-.about-text p{
+}
+ .about-text-p{
 font-size: 16px;
 font-weight: 400;
 text-align: left;
-width: 80%;
+width:90%;
 }
 .about-img img{
     height: 250px;
@@ -44,4 +44,22 @@ text-align: left;
 color: rgba(190, 42, 16, 1);
 margin: 10px 0px 0px 20px;
 
+}
+.word-from-ceo{
+    padding: 10px 40px 10px 40px;
+    text-align: left;
+    background: rgba(236, 236, 236, 1);
+    margin-bottom: 20px;
+
+}
+.word-from-ceo h1{
+font-size: 40px;
+font-weight: 600;
+color: rgba(190, 42, 16, 1);
+line-height: 20px;
+}
+
+.word-from-ceo-p{
+font-size: 16px;
+font-weight: 400;
 }

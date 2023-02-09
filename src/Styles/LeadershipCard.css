@@ -1,0 +1,22 @@
+.leadership-card-main{
+    padding: 0px 40px 0px 40px;
+    text-align: left;
+    width: 300px;
+}
+.leadership-card-main img{
+    height: 300px;
+width: 300px;
+}
+.leadership-card-main h1{
+font-size: 32px;
+line-height: 1px;
+}
+.leadership-card-main h3{
+font-size: 24px;
+line-height: 8px;
+}
+.leadership-card-main p{
+font-size: 16px;
+font-weight: 400;
+
+}
