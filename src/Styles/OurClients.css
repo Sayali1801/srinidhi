@@ -5,21 +5,60 @@
 .ourClient-up{
     display: flex;
     flex-direction:column;
-    align-items: flex-start;
+    color: white;
+}
+.ourClient-up h1{
+font-size: 32px;
+font-weight: 600;
+line-height: 1px;
+text-align: left;
+padding-top: 20px;
+
 }
 .ourClient-up p{
     width: 60%;
     text-align:left;
+    line-height: 25px;
 }
 .ourClient-down {
     display: flex;
     justify-content:space-around;
     align-items: center;
     background-color: white;
-    padding: 30px;
+    padding:50px;
     margin-top: 10px;
 }
-.ourClient-down img{
+.our-clients-scroll img{
     height: 100px;
     width: 100px;
+
 }
+ .our-clients-scroll p{
+
+}
+
+.our-clients{
+    animation: scrolling 3s linear infinite;
+}
+.our-clients-scroll{
+}
+@keyframes scrolling{
+    0%{
+        transform: translateX(70%);
+    }
+    100%{
+        transform: translateX(-80%);
+    }
+} 
+
+
+
+
+
+
+
+
+
+
+
+

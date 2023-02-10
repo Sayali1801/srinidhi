@@ -59,21 +59,32 @@
         "our_clients": {
             "our_clients_title": "Our Clients",
             "our_clients_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
-            "our_clients_logo": [
-                "clientLogo.png",
-                "clientLogo.png",
-                "clientLogo.png",
-                "clientLogo.png",
-                "clientLogo.png"
-            ],
-            "our_clients_name": [
-                "Lorem ipsum dolor",
-                "Lorem ipsum dolor",
-                "Lorem ipsum dolor",
-                "Lorem ipsum dolor",
-                "Lorem ipsum dolor"
-            ]
-        },
+            "our_clients": [
+                {
+                    "logo":"clientLogo.png",
+                    "name":"client Name"
+                },
+                {
+                    "logo":"clientLogo.png",
+                    "name":"client Name"
+                },
+                {
+                    "logo":"clientLogo.png",
+                    "name":"client Name"
+                },
+                {
+                    "logo":"clientLogo.png",
+                    "name":"client Name"
+                },
+                {
+                    "logo":"clientLogo.png",
+                    "name":"client Name"
+                },
+                {
+                    "logo":"clientLogo.png",
+                    "name":"client Name"
+                }
+            ]        },
         "our_presence": {
             "our_presence_title": "Our Presence",
             "our_presence_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
@@ -111,7 +122,12 @@
             {
                 "img": "product.png",
                 "name": "Nut Pan Roasting Machine"
+            },
+            {
+                "img": "product.png",
+                "name": "Nut Pan Roasting Machine"
             }
+
         ]
     },
     "product_basic_details": [
