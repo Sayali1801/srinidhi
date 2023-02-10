@@ -24,12 +24,12 @@ function Landing() {
         <Product/>
                 <Testimonials/>
                 <AllProduct/>
-                {/* <MachineDetail/> */}
+                <MachineDetail/>
                 <Aboutsrinidhi/>
-                {/* <EnquiryForm/> */}
+                <EnquiryForm/>
                 {/* <SlickSlider/> */}
         <Contact/>
-        {/* <Footer/> */}
+        <Footer/>
       </div>
       <div>
       </div>

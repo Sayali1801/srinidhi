@@ -1,7 +1,11 @@
 .leadership-card-main{
     padding: 0px 40px 0px 40px;
     text-align: left;
-    width: 300px;
+    /* width: 300px; */
+    /* display: grid;
+    grid-template-columns: 1fr 1fr; */
+    display: flex;
+    align-items: center;
 }
 .leadership-card-main img{
     height: 300px;
@@ -19,4 +23,7 @@ line-height: 8px;
 font-size: 16px;
 font-weight: 400;
 
+}
+.card{
+padding:0px 40px 0px 40px;
 }

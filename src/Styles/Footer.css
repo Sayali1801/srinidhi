@@ -3,23 +3,14 @@
     color: white;
     padding:0px 40px 0px 40px;
 }
-/* .footer{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-} */
 .footer{
     display: flex;
     justify-content:space-around;
     align-items: center;
+    flex-direction:row;
 }
 .company-logo{
     padding-top: 40px;
-}
-.footer-divs{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
 }
 .footer-divs h1{
 font-size: 20px;
@@ -30,21 +21,20 @@ text-transform: uppercase;
 .footer-divs p{
 font-size: 16px;
 font-weight: 400;
-text-align: left;
+text-align: center;
 }
 .line{
     width: 100%;
     margin-bottom: 10px;
 }
-/* .social-media-icons{
+.social-media-icons{
     display: flex;
-    justify-content: center;
-    align-items: center;
-flex-wrap: nowrap;
-flex-direction: column;
-    
-} */
+    justify-content: space-around;
+}
 .social-media-icons img{
     height: 40px;
     width: 40px;
+}
+.privacy{
+    padding-bottom: 20px;
 }

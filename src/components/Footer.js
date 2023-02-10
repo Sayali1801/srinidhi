@@ -19,23 +19,23 @@ function Footer(){
             </div>
             <div className='footer-divs'>
                 <h1>get qoute</h1>
-                <p></p>
-                <h1></h1>
+                <p>Lorem Ipsum</p>
+                <h1>Lorem Ipsum</h1>
             </div>
             <div className='footer-divs'>
                 <h1>Social media links</h1>
-                    {Data.footer.footer_social_media.map((item)=>{
-                        return(
-                            <div className='social-media-icons'>
-                        <img src={require('../Images/' + item)} alt=""/>
-                        </div>
-                        )
-                    })}
+                <div className='social-media-icons'>
+                    <img src={require('../Images/youtube.png')} alt=""/>
+                    <img src={require('../Images/IG.png')} alt=""/>
+                    <img src={require('../Images/linkedin.png')} alt=""/>
+                    <img src={require('../Images/Twitter.png')} alt=""/>
+
+                </div>
                 </div>
 
         </div>
         <hr className='line'/>
-        <div>Vriksh Fertility    2023 All Right Reserved.</div>
+        <div className='privacy'>Vriksh Fertility  ©   2023 All Right Reserved.</div>
 
         </div>
     )
